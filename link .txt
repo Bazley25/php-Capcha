@@ -1,0 +1,9 @@
+https://www.allphptricks.com/create-a-simple-captcha-script-using-php/
+
+
+https://www.positronx.io/create-captcha-in-php-contact-form/
+
+
+https://www.studentstutorial.com/php/captcha
+
+https://www.studentstutorial.com/php/sms-integration-in-php-form
